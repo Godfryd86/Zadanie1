@@ -1,0 +1,7 @@
+C:\Users\jedrz\source\repos\Liczydło\Liczydło\obj\Debug\Liczydło.csprojAssemblyReference.cache
+C:\Users\jedrz\source\repos\Liczydło\Liczydło\obj\Debug\Liczydło.csproj.CoreCompileInputs.cache
+C:\Users\jedrz\source\repos\Liczydło\Liczydło\bin\Debug\Liczydło.exe.config
+C:\Users\jedrz\source\repos\Liczydło\Liczydło\bin\Debug\Liczydło.exe
+C:\Users\jedrz\source\repos\Liczydło\Liczydło\bin\Debug\Liczydło.pdb
+C:\Users\jedrz\source\repos\Liczydło\Liczydło\obj\Debug\Liczydło.exe
+C:\Users\jedrz\source\repos\Liczydło\Liczydło\obj\Debug\Liczydło.pdb
